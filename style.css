@@ -1,0 +1,24 @@
+#header {
+    background-color: darksalmon;
+    padding: 5px;
+    top: 0;
+}
+
+#last {
+    background-color: khaki;
+}
+
+#footer {
+    background-color: lightcyan;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h2 {
+    font-family: 'Shantell Sans', cursive;
+}
+
+h1 {
+    font-family: 'Rubik Iso', cursive;
+}
